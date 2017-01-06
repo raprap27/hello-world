@@ -1,7 +1,8 @@
 # hello-world
 First repository created.
 
-Mabuhay Madlang People!
+Aloha People!
 
-I'm Raphael, am a Junior Database Administrator.
-I love to try different kinds of food in different places which is what I do when I travel. :D
+I'm Raphael, an MS SQL Database Administrator.
+One of my interests outside my job is...
+I love to try different kinds of food whenever we travel in different places! xD
